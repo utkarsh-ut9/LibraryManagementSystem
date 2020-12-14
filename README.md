@@ -1,11 +1,11 @@
 # LibraryManagementSystem
-Library Management System | SEM-3 Mini-Project | Installation
+Library Management System | Mini-Project | Installation
 
 FOR DATABASE:
 1. Install XAMPP from https://www.apachefriends.org/download.html
 2. Configure XAMPP and Start Apache and MySQL
 3. Open Chrome/any internet application and type localhost/dashboard and choose pHpMyAdmin from top right side
-4. Click on Import and then Browse on Computer, (make sure to download the librarydb sql file uploaded)
+4. Click on Import and then Browse on Computer, (make sure to download the librarydb.sql file uploaded in the repo)
 5. Import the file and database would be successfully imported
 
 FOR NETBEANS:
