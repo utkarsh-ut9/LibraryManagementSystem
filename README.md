@@ -17,4 +17,5 @@ FOR NETBEANS:
 
 TO RUN THE PROJECT:
 1. Double click on the Login.java frame and press SHIFT + F6 to run the project
+2. To navigate to Login.java see the image.png in the repository. Choose LibMgmt > Src > libmgmt > Double click Login.java
 
